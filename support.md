@@ -4,7 +4,7 @@ Software support begins in initial design and planning phases of a project with 
 
 Issue management processes should include appropriate reporting mechanisms, and when triggered, incidents are triaged based on severity and customer impact. Incidents are tracked through an appropriate workflow to resolution. Diagnostic mechanisms are key in resolving incidents quickly and should include sufficient logging and tracing as well as active service monitoring. In all but the smallest projects, issue tracking software is a necessity and can provide reporting and traceability functions.
 
-Early investment in automation of key processes such as testing and deployment provides much greater confidence in the software release process and enables more frequent releases, faster incident resolution and better product feedback. Testing should consist of a blend of unit / integration, functional and manual testing.
+Early investment in automation of key processes such as testing and deployment ("DevOps") provides much greater confidence in the software release process and enables more frequent releases, faster incident resolution and better product feedback. Testing should consist of a blend of unit / integration, functional and manual testing.
 
 Example projects:
 -	Microsoft - Azure Mobile Apps (Node.js SDK developer) – 10,000+ customers, 24 hour on call incident resolution, customer SLAs - https://azure.microsoft.com/en-au/services/app-service/mobile/
