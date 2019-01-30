@@ -1,4 +1,4 @@
-The team at Cordelta have extensive experience maintaining and supporting IT systems, from small business applications, websites to enterprise platform products with service level agreements (SLAs) and tens of thousands of customers.
+The team at Cordelta have extensive experience maintaining and supporting IT systems, from small business applications and websites to enterprise platform products with service level agreements (SLAs) and tens of thousands of customers.
 
 Software support begins in initial design and planning phases of a project with the creation of an appropriate risk management strategy. At a minimum, an issue management process and sufficient diagnostic facilities must be planned. Other associated artefacts may include disaster recovery (DR) and business continuity plans, quality controls, etc.
 
