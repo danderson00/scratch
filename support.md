@@ -1,4 +1,4 @@
-The team at Cordelta have extensive experience maintaining and supporting IT systems, from small business applications to enterprise platform products with service level agreements (SLAs) and tens of thousands of customers.
+The team at Cordelta have extensive experience maintaining and supporting IT systems, from small business applications, websites to enterprise platform products with service level agreements (SLAs) and tens of thousands of customers.
 
 Software support begins in initial design and planning phases of a project with the creation of an appropriate risk management strategy. At a minimum, an issue management process and sufficient diagnostic facilities must be planned. Other associated artefacts may include disaster recovery (DR) and business continuity plans, quality controls, etc.
 
@@ -10,3 +10,4 @@ Example projects:
 -	Microsoft - Azure Mobile Apps (Node.js SDK developer) – 10,000+ customers, 24 hour on call incident resolution, customer SLAs - https://azure.microsoft.com/en-au/services/app-service/mobile/
 -	Department of Agriculture and Water Resources - BICON (solution architect) - https://bicon.agriculture.gov.au/BiconWeb4.0
 -	London Stock Exchange – investor tools (build team leader) - https://www.londonstockexchange.com/prices-and-markets/stocks/tools-and-services/tools.htm
+- Regularly monitor system kernel and contributed modules security patches, conduct technical audits, facilitate penetration testing, write reports and perform updates for government clients like ACT Health and corporate clients like Canberra Elite Taxi
